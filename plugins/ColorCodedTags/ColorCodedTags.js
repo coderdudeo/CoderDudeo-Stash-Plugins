@@ -1,7 +1,7 @@
 // @author      Maista & AdultSun
 // @description Built on the work of AdultSun and peolic - modified by coderdudeo to include tags in markers and use stash interface
 // @namespace   com.maista.userscripts
-// @version     0.0.4
+// @version     0.0.5
 (async () => {
   "use strict";
 
